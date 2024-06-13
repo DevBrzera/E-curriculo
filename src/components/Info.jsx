@@ -22,8 +22,8 @@ export function Info() {
                 <p>Estudante de programação, recém-formado no ensino médio, graduando em Analise e Desenvolvimento de Sistemas, buscando experiência profissional e crescimento na carreira tecnológica.</p>
 
             <div className={styles.profileInfo}>
-                <p><a href="https://github.com/DevBrzera?tab=repositories">Repositórios</a></p>
-                <p><a href="https://github.com/DevBrzera/react-chakra">Último Projeto</a></p>
+                <p><a href="https://github.com/DevBrzera?tab=repositories" target='_blank'>Repositórios</a></p>
+                <p><a href="https://github.com/DevBrzera/react-chakra" target='_blank'>Último Projeto</a></p>
                 </div>
             </div>
 

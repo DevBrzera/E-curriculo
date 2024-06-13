@@ -17,6 +17,16 @@ export function Sidebar() {
                     <li><a href="https://www.linkedin.com/in/bruno-gregório-5b78aa2bb/"><img src={linkedin} alt='linkedin' />DevBrzera</a></li>
                 </ul>
             </div>
+
+            <hr />
+
+            <div className={styles.idioma}>
+                <p>Idiomas</p>
+                <div className={styles.idiomaInfo}>
+                    <img src="https://t4.ftcdn.net/jpg/00/65/12/49/360_F_65124908_UpNHzTdQn2HNAIT8yYqybMQeGfsRmVc7.jpg" alt="usa flag" />
+                    <span>Inglês Básico</span>
+                </div>
+            </div> 
         </aside>
     )
 }
