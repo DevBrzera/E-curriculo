@@ -1,0 +1,26 @@
+.skills {
+    margin-top: 2rem; 
+    gap: 1rem;
+    display: flex;
+ }
+ 
+ .skills img {
+     width: 3rem;
+     height: 3rem;
+     border-radius: 50%;
+ }
+ 
+ .skills p {
+     color: var(--gray-300);
+ }
+ 
+ .skillsContent {
+     background-color: var(--gray-600);
+     border-radius: 8px;
+     padding: 1rem;
+     margin-top: 1rem;
+ }
+ 
+ .skillsBox {
+     flex: 1;
+ }
